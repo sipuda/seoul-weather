@@ -1,0 +1,6 @@
+STREAMING_CHUNK: Listing required dependencies...
+
+streamlit
+pandas
+plotly
+numpy
